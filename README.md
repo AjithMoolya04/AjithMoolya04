@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 # 💫 About Me:
 💻 Currently pursuing Robotics and AI at NMAMIT<br>🔭 I’m currently working on a deep learning project for image analysis.<br>👯 I’m looking to collaborate on projects involving cutting-edge technologies.<br>🤝 I’m looking for help with advanced deep learning techniques and tech industry job opportunities.<br>🌱 I’m currently learning advanced deep learning methods and prompt engineering.<br>💬 Ask me about robotics, AI, deep learning, CAD desgin,Cloud Computing
 
