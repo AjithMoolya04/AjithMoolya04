@@ -3,7 +3,7 @@
 
 
 
-  <p><img src="Assets/github-header-image (1).png" alt="Ajith Moolya"></p>
+  <p><img src="Assets/github-header-image.png" alt="Ajith Moolya"></p>
 
 
 
