@@ -7,9 +7,15 @@
 
 
 
+# 💫 About Me
 
-# 💫 About Me:
-💻 Currently pursuing Robotics and AI at NMAMIT<br>🔭 I’m currently working on a deep learning project for image analysis.<br>👯 I’m looking to collaborate on projects involving cutting-edge technologies.<br>🤝 I’m looking for help with advanced deep learning techniques and tech industry job opportunities.<br>🌱 I’m currently learning advanced deep learning methods and prompt engineering.<br>💬 Ask me about robotics, AI, deep learning, CAD desgin,Cloud Computing
+💻 Currently pursuing **Robotics and AI** at NMAMIT  
+👯 Open to collaborating on **cutting-edge AI & robotics projects**  
+⚡ Hands-on experience in **AI, Web Development, and Robotics**  
+🛠️ Built projects using **React.js, FastAPI, and Streamlit**  
+🤝 Seeking guidance in **advanced deep learning techniques** and **industry opportunities**  
+💬 Ask me about **Robotics, AI, Deep Learning, CAD Design, and Cloud Computing**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajith-moolya-a97016314/) 
